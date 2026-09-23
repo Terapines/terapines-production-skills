@@ -1,0 +1,10 @@
+# Local secrets and generated files
+.env
+.env.*
+!.env.example
+artifacts/
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
